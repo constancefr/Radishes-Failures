@@ -7,4 +7,5 @@ They submit a proof of a failed class, which is then checked with a word process
 As of now, only the front-end portion is functioning, and we hope to integrate it fully with other essential components.
 Frameworks/languages used are React and Python (for image processing).
 
-To run the app, install react-scripts to run on local machine.
+To run the front-end app, install react-scripts to run on local machine.
+To run the image processing program, install the pytesseract tool.
